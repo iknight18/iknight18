@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Dynamic QR Solution<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning new FrontEnd frameworks<br>💬 Ask me about Dev news and new libraries and frameworks<br>
+🔭 I’m currently working zt Instadeep<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning new FrontEnd frameworks<br>💬 Ask me about Dev news and new libraries and frameworks<br>
 
 
 ## 🌐 Socials:
