@@ -21,8 +21,8 @@ Text sent through a phone's flashlight. Framed, CRC-checked and Manchester-coded
 camera in the browser, with a simulator that tests the decoder against jitter and noise.
 
 **[Theater Pose Estimation](https://github.com/iknight18/Theater-Detection)** · Python, YOLOv8, FastAPI\
-Detects every actor on stage and their skeleton, despite costumes, props and stage lighting. A research
-base for analysing staging, lighting and movement in theatre.
+Detects every actor on stage and their skeleton, with a confidence score for each joint, since costumes,
+props and stage lighting make theatre a hard case. A research base for analysing staging and movement.
 
 More projects, with screenshots, on the **[portfolio](https://iknight18.github.io)**.
 
