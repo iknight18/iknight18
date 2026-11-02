@@ -1,28 +1,33 @@
-# 💫 About Me:
-🔭 I’m currently working at InstaDeep<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning new FrontEnd frameworks<br>💬 Ask me about Dev news and new libraries and frameworks<br>
+<a href="https://iknight18.github.io"><img src="banner.jpg" alt="Manga-style drawing of Feres at his desk, coding across three monitors with headphones on" width="100%"></a>
 
+# Feres Nefzi
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/feres.nefzi1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iknight_nefzi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/feres-nefzi) 
+**Software & AI Engineer** · Tunis, UTC+1 · open to remote and on-site roles
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://readme-stats.clckblog.space/api?username=iknight18&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iknight18&theme=dark&hide_border=false)<br/>
-![](https://readme-stats.clckblog.space/api/top-langs/?username=iknight18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Front-end engineer at InstaDeep since 2023, building the interfaces of AI products.
+On my own time I build the AI itself: computer vision, audio and agents.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iknight18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+**[Portfolio](https://iknight18.github.io)** · **[CV (PDF)](https://iknight18.github.io/feres-nefzi-cv.pdf)** · **[LinkedIn](https://www.linkedin.com/in/feres-nefzi)** · **[Email](mailto:feresnefzi18@gmail.com)**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## Projects
 
----
-[![](https://visitcount.itsvg.in/api?id=iknight18&icon=0&color=0)](https://visitcount.itsvg.in)
+**[DJ Engine](https://github.com/iknight18/dj-engine)** · Rust, Python\
+An automatic DJ. It analyses a music library (beats, key, phrases, energy, stems split with Demucs), then
+mixes it live on two decks: it picks the next track and the transition, beatmatches on the downbeat, and
+streams the set to Icecast.
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/feresnefzi) 
+**[FlashLink](https://github.com/iknight18/flashlink)** · TypeScript, Expo, Vite\
+Text sent through a phone's flashlight. Framed, CRC-checked and Manchester-coded light, decoded from any
+camera in the browser, with a simulator that tests the decoder against jitter and noise.
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**[Theater Pose Estimation](https://github.com/iknight18/Theater-Detection)** · Python, YOLOv8, FastAPI\
+Detects every actor on stage and their skeleton, despite costumes, props and stage lighting. A research
+base for analysing staging, lighting and movement in theatre.
+
+More projects, with screenshots, on the **[portfolio](https://iknight18.github.io)**.
+
+## Stack
+
+- **Product:** TypeScript, React, Next.js, Node, NestJS, Tailwind, design systems
+- **AI & audio:** Python, YOLO / Ultralytics, Hugging Face Transformers, librosa, madmom, Demucs, Claude & Gemini APIs
+- **Systems:** Rust, FastAPI, Docker, Kubernetes, Postgres, Redis
