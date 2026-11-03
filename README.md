@@ -24,6 +24,10 @@ camera in the browser, with a simulator that tests the decoder against jitter an
 Detects every actor on stage and their skeleton, with a confidence score for each joint, since costumes,
 props and stage lighting make theatre a hard case. A research base for analysing staging and movement.
 
+**[Claude Workbench](https://github.com/iknight18/claude-workbench)** · TypeScript, Next.js, Express\
+A local web workspace for Claude Code: sessions in browser terminals, a prompt library with version
+history, scheduled headless runs, several Claude Code profiles side by side, and live notifications from hooks.
+
 More projects, with screenshots, on the **[portfolio](https://iknight18.github.io)**.
 
 ## Stack
